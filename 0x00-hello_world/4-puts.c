@@ -1,14 +1,18 @@
-#include <stdio.h>
+#include  <stdio.h>
+
+
 
 /**
  *
- *  *main- Serves as the entry point for the program
+ *  * main - Entry point
  *
- *   *
+ *   * Description: C program that prints a function followed by a new line
  *
- *    *Return: By default returns zero if no erros otherwise returns non-zero value.
+ *    * Return: 0 if successful
  *
  *     */
+
+
 
 int main(void)
 
@@ -19,5 +23,3 @@ int main(void)
 			return (0);
 
 }
-
-
